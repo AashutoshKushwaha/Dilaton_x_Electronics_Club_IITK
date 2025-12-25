@@ -7,4 +7,5 @@ File Logging
 \
 \
 5-12 - Imu data logger added\
-13-12 - VNS Simulation
+13-12 - VNS Simulation\
+18-12 - IMU drift correction and simulation\
